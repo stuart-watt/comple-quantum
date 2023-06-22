@@ -1,0 +1,21 @@
+name: quantum
+channels:
+  - anaconda
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - fire
+  - black
+  - gcsfs
+  - pandas-gbq
+  - cloudpathlib
+  - google-cloud-pubsub
+  - google-cloud-bigquery
+  - pylint
+  - google-auth
+  - pytest
+  - matplotlib
+  - jupyterlab
+  - pip
