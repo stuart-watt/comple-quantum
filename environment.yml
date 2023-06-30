@@ -19,3 +19,6 @@ dependencies:
   - matplotlib
   - jupyterlab
   - pip
+  - pip:
+    - qiskit
+    - qiskit-ibm-runtime
